@@ -62,7 +62,7 @@ body {
 </div>
 
 <script>
-var video = document.getElementById("myVideo");
+var video = document.getElementById("Hallway Clip for web (1)");
 
 }
 </script>
