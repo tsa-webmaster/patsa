@@ -30,7 +30,7 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block"; 
   dots[slideIndex-1].className += " active";
 }
-var coll = document.getElementsByClassName("collapsible");
+var coll = document.getElementsByClassName("High School Events Available");
 var i;
 
 for (i = 0; i < coll.length; i++) {
@@ -55,7 +55,7 @@ for (i = 0; i < coll.length; i++) {
 </style>
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
+var coll = document.getElementsByClassName("High School Events Available");
 var i;
 
 for (i = 0; i < coll.length; i++) {
